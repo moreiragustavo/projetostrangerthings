@@ -1,0 +1,43 @@
+body {
+  font-family: "Times New Roman", serif;
+  color: #ffffff;
+  text-align: center;
+  background-image: url('https://i.postimg.cc/pXb0rY32/Fundo.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  line-height: 1.6;
+}
+
+.links {
+  text-align: center;
+}
+
+.links a {
+  display: block;
+  margin: 10px 0;
+}
+
+.transparencia {
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+.links a {
+  color: #e50914;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
